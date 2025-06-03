@@ -1,2 +1,1 @@
-# eai-toppforsk
-NTNU ToppForsk Group in Embodied AI
+# px4-nns
